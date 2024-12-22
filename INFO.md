@@ -1,1 +1,2 @@
-X
+git is awesome!
+new line
